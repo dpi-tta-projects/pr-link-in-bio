@@ -173,4 +173,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [P. Devlin Harvey](https://link-in-bio-mx4g.onrender.com/)
 - [Miguel Ramos](https://link-in-bio-cgp2.onrender.com/)
 - [Sabreena Salomon](https://linkinbio-vofd.onrender.com/)
-
+- [Bella Rose Wilson](https://password-generator-2oka.onrender.com)
