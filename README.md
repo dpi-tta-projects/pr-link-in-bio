@@ -174,3 +174,6 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Miguel Ramos](https://link-in-bio-cgp2.onrender.com/)
 - [Sabreena Salomon](https://linkinbio-vofd.onrender.com/)
 
+## 2025-08.1
+
+- [Karen Barbé](https://link-in-bio2-zwl4.onrender.com/)
