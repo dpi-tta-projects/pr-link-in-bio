@@ -177,3 +177,5 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 ## 2025-07.1
 
 - [Drew Krehel](https://link-in-bio-w69f.onrender.com)
+- [Karen Barbé](https://link-in-bio2-zwl4.onrender.com/)
+- [Bella Rose Wilson](https://link-in-bio-brw.onrender.com)
