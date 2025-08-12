@@ -178,3 +178,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 
 - [Karen Barbé](https://link-in-bio2-zwl4.onrender.com/)
 - [Bella Rose Wilson](https://link-in-bio-brw.onrender.com)
+- [Courtney Kimbrough](https://link-in-bio-ofmu.onrender.com)
