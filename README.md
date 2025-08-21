@@ -181,3 +181,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Bella Rose Wilson](https://link-in-bio-brw.onrender.com)
 - [Courtney Kimbrough](https://link-in-bio-ofmu.onrender.com)
 - [Muhammed Ahmad](https://link-in-bio-page.onrender.com/)
+- [Kseniia Kormalova](https://link-in-bio-x8bl.onrender.com)
