@@ -179,4 +179,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Drew Krehel](https://link-in-bio-w69f.onrender.com)
 - [Karen Barbé](https://link-in-bio2-zwl4.onrender.com/)
 - [Bella Rose Wilson](https://link-in-bio-brw.onrender.com)
+- [Courtney Kimbrough](https://link-in-bio-ofmu.onrender.com)
+- [Muhammed Ahmad](https://link-in-bio-page.onrender.com/)
+- [Kseniia Kormalova](https://link-in-bio-x8bl.onrender.com)
 - [Darius Woods](https://link-in-bio-halg.onrender.com)
