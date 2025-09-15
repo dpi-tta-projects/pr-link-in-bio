@@ -185,4 +185,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Darius Woods](https://link-in-bio-halg.onrender.com)
 - [L Pollard](https://link-in-bio-mpym.onrender.com)
 - [Berhane Berhane](https://purple-saturn.onrender.com/)
-
+- [Alex Slawniak](https://bio.alexs.farm)
