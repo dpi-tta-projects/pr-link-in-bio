@@ -173,6 +173,7 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [P. Devlin Harvey](https://link-in-bio-mx4g.onrender.com/)
 - [Miguel Ramos](https://link-in-bio-cgp2.onrender.com/)
 - [Sabreena Salomon](https://linkinbio-vofd.onrender.com/)
+- [Gabriel Hewitt](https://link-in-bio-qz2b.onrender.com/)
 
 ## 2025-07.1
 
