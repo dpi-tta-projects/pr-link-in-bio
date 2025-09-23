@@ -186,3 +186,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [L Pollard](https://link-in-bio-mpym.onrender.com)
 - [Berhane Berhane](https://purple-saturn.onrender.com/)
 - [Heather Forester](https://link-in-bio-u8b5.onrender.com/)
+- [Alex Slawniak](https://bio.alexs.farm)
