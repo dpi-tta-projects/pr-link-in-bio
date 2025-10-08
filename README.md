@@ -188,3 +188,4 @@ Create an issue (eg "Add Ian's link") and assign it to yourself. Clone this repo
 - [Heather Forester](https://link-in-bio-u8b5.onrender.com/)
 - [Alex Slawniak](https://bio.alexs.farm)
 - [Monique Theogene](https://link-in-bio-tgm8.onrender.com)
+- [Maia Rowe](https://link-in-bio-ktk8.onrender.com/)
